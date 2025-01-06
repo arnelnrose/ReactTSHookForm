@@ -1,0 +1,12 @@
+npm create vite@latest
+my-project
+react
+typescript + swc
+cd my-app 
+npm install
+
+==============================
+DEPENDENCIES
+==============================
+npm install react-hook-form
+npm install -D @hookform/devtools
